@@ -1,0 +1,13 @@
+{
+  "name": "tellus",
+  "productName": "Tellus",
+  "version": "0.1.0",
+  "description": "Navegador Tellus creado por Dario",
+  "main": "core/main.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "devDependencies": {
+    "electron": "^41.2.2"
+  }
+}
