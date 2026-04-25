@@ -7,4 +7,9 @@ A Chromium-based browser inspired by values ​​such as ad blocking, open sour
 
 Clone the repo, install npm and run in the repo folder:
 ```bash
-npm install
+npm install 
+```
+### Run 
+```bash
+npm start
+```
